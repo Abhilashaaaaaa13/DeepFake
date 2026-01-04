@@ -1,0 +1,21 @@
+# Data Processing
+opencv-python
+mediapipe
+tqdm
+numpy
+Pillow
+
+# AI & Deep Learning (PyTorch)
+torch
+torchvision
+torchaudio
+
+# Backend API (Phase 3)
+fastapi
+uvicorn
+python-multipart
+
+# Utilities
+matplotlib
+scikit-learn
+seaborn

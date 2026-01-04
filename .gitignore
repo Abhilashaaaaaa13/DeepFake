@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.env
+
+# Datasets (Massive files)
+FaceForensics++_C23
+processed_data/
+*.mp4
+*.zip
+
+# Model Weights
+*.pth
+*.pt
+*.h5
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
